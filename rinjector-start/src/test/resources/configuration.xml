@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<config>
+    <storage id="smartphone" className="com.epam.Smartphone">
+        <property name="price" value="1000"/>
+    </storage>
+    <storage id="tablet" className="com.epam.Tablet">
+        <property name="iPad" value="true"/>
+    </storage>
+</config>
