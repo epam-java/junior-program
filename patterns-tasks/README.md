@@ -4,7 +4,7 @@
 
 #### Обязательные для реализации паттерны
 * Strategy 
-* Factory method/Command  
+* Factory/Command  
 * Proxy
 * Template method  
 
